@@ -5,7 +5,7 @@ tmkdev llc - 2016
 I needed a simple web service to monitor small applications that are dependant on cron jobs running.
 
 I found some SaaS solutions - none of them were exactly what I was looking for.
-(https://steward.io/, https://deadmanssnitch.com/, webcron.com)
+(https://steward.io/, https://deadmanssnitch.com/, webcron.com,http://www.cronjobservices.com)
 
 So I wrote this.
 
